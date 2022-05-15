@@ -1,0 +1,5 @@
+project: rnshah9/mayhem-lowdown
+target: lowdown
+
+cmds:
+  - cmd: /repo/lowdown @@
