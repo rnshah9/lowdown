@@ -2,4 +2,4 @@ project: lowdown
 target: lowdown
 
 cmds:
-  - cmd: /repo/lowdown @@
+  - cmd: /lowdown @@
