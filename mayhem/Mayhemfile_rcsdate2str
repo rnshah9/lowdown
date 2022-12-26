@@ -1,0 +1,6 @@
+project: lowdown
+target: rcsdate2str
+
+cmds:
+  - cmd: /fuzz_rcsdate2str
+    libfuzzer: true
